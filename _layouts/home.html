@@ -4,19 +4,32 @@ layout: archive
 
 {{ content }}
 
+{% comment %}
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
-  {% assign posts = paginator.posts %}
+{% assign posts = paginator.posts %}
 {% else %}
-  {% assign posts = site.posts %}
+{% assign posts = site.posts %}
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
+  {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
 
 {% include paginator.html %}
+
+{% endcomment %}
+
+<br>Hi there! I'm Kishore.
+<br>I am a Data Science graduate from University at Buffalo, and I currently work as a Software Developer at Ford Motor
+Company.
+<br>I'm passionate about using data to discover new insights.
+<br>
+<br>Feel free to look around my website.
+<br>
+<br>To contact me, use the contact form <a href="about/#contact">here</a>.
