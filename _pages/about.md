@@ -8,9 +8,9 @@ classes: wide
 search: true
 ---
 
-I am a Data Science aficionado, actively looking for internships and full-time opportunities. I am a self-motivated and evolving learner, open to new experiences that help build my career as a Data Scientist.
+I am a Data Science aficionado, open to new experiences that help build my career as a Data Scientist.
 
-I am currently pursuing a masters degree in Data Science at University at Buffalo, during the course of which I have gained hands-on experience in Machine Learning techniques (supervised and unsupervised), statistical analysis, database modelling and Python programming.
+As a self-motivated and constant learner, I have learned to be highly adaptable and collaborative in all kinds of situations. I strongly believe I have a lot of offer as I work towards utilizing opportunities that help me become a valuable asset in the industry.
 
 When I am not coding, you can find me clicking photos, playing music, or visiting new places.
 
