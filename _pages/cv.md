@@ -23,10 +23,11 @@ Education
 Work experience
 ======
 * Software Developer, Ford Motor Company (March 2020 - Present)
-  * Currently working on Bill of Material (BOM) initiatives with the Product Development team in an Agile environment.
-  * Designed, developed, and tested multiple queries, triggers, and stored procedures in SQL Server to acquire, prepare and manage BOM data from multiple tables with over 100,000 rows.
-  * Successfully deployed multiple webpages using XHTML, CSS, JavaScript, and Java to present metrics that consume backend APIs as well as data from SQL Server. Optimized load time of under-performing pages by over 80%.
+  * Currently working with the Reporting team on Java based ad-hoc reporting initiatives in an Agile environment.
+  * Designed and tested multiple queries and procedures in SQL Server to manage large amounts of BOM data.
+  * Successfully deployed multiple webpages in a Java web application to present metrics by consuming APIs and data from SQL Server. Optimized load time of under-performing pages by over 80%.
   * Delivered a proof of concept for log file analysis in Grafana using Machine Learning.
+
 * Machine Learning Intern, Buffalo Media Works LLC (September 2019 - December 2019)
   * Built a machine learning model using TensorFlow and OpenCV that crops scanned photos dynamically, to remove irrelevant features such as photo frames and color swatches. Achieved a baseline accuracy of 83%.
   * Additional Duties: Fixed critical bugs and improved code for inventory management.
