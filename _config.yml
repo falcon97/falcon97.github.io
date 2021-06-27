@@ -101,16 +101,19 @@ author:
   email            :
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/kishore-ravisankar/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/falcon97"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/falcon97"
     - label: "Stack Overflow"
-      icon: "fab fa-stack-overflow"
+      icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/4382516/falcon97"
     - label: "Quora"
-      icon: fab fa-quora"
+      icon: fab fa-fw fa-quora"
       url: "https://quora.com/Kishore-Ravisankar"
 
 # Site Footer
