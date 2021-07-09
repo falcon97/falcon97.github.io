@@ -45,20 +45,20 @@ You can reach out to me by filling out the contact form below.
 
 <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-database.js"></script>
 
+<script src="https://www.gstatic.com/firebasejs/8.7.1/firebase-app-check.js"></script>
+
 <script>
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
   var firebaseConfig = {
     apiKey: "AIzaSyAYMuSplx4X83Cvin17p9hzLV7PsD29RcQ",
     authDomain: "github-portfolio-68ede.firebaseapp.com",
     projectId: "github-portfolio-68ede",
     storageBucket: "github-portfolio-68ede.appspot.com",
     messagingSenderId: "192270304814",
-    appId: "1:192270304814:web:0ff8821d460a7c94b001bf",
-    measurementId: "G-K785VT133K"
+    appId: "1:192270304814:web:0ff8821d460a7c94b001bf"
   };
-  // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
+  const appCheck = firebase.appCheck();
+  appCheck.activate('6LfaYoQbAAAAAOkhxEMoPBXZvTWeC460quqWSj9R');
 </script>
 <script type="text/javascript">
       function onSubmit(email, name, message) {
