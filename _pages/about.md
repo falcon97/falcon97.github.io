@@ -36,14 +36,14 @@ You can reach out to me by filling out the contact form below.
         </div>
         <button type="submit" class="btn btn-primary">Send</button>
         <div class="form-ground" id="sendmsg" style="display: none;"> 
-          Your message has been sent!
+          Thank you for your message! I will reach out to you if necessary.
         </div>
       </form>
 </div>
 
-<script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.7.1/firebase-app.js"></script>
 
-<script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-database.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.7.1/firebase-database.js"></script>
 
 <script src="https://www.gstatic.com/firebasejs/8.7.1/firebase-app-check.js"></script>
 
