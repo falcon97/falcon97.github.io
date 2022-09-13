@@ -23,10 +23,10 @@ Education
 Work experience
 ======
 * Software Developer, Ford Motor Company (March 2020 - Present)
-  * Currently working with the Reporting team on Java based ad-hoc reporting initiatives in an Agile environment.
-  * Designed and tested multiple queries and procedures in SQL Server to manage large amounts of BOM data.
-  * Successfully deployed multiple webpages in a Java web application to present metrics by consuming APIs and data from SQL Server. Optimized load time of under-performing pages by over 80%.
-  * Delivered a proof of concept for log file analysis in Grafana using Machine Learning.
+  * Developing solutions to enhance and maintain reporting processes that deliver bill of material (BOM) data to key business teams in an Agile environment. Conserved Java and Hadoop workflow runtimes by 30% and 8% respectively.
+  * Co-leading the envisioning of Machine Learning use cases in the BOM team. Contributed to completion of multiple proof-of-concepts by working on data extraction, analysis, feature engineering and model training.
+  * Overseeing tech refreshes in the team and managing code deployments in GitHub. Streamlined code deployment process for developers and optimized Gradle build runtimes by 36%.
+  * Successfully deployed multiple webpages in a Java web app to present BOM data and other metrics by communicating with necessary APIs and SQL Server data. Reduced load time of under-performing pages by over 80%.
 
 * Machine Learning Intern, Buffalo Media Works LLC (September 2019 - December 2019)
   * Built a machine learning model using TensorFlow and OpenCV that crops scanned photos dynamically, to remove irrelevant features such as photo frames and color swatches. Achieved a baseline accuracy of 83%.
@@ -49,14 +49,14 @@ Freelance
 Skills
 ======
 * Programming Languages: Python, Java, R, C++, C, MATLAB, Bash, Verilog, VHDL
-* Databases: SQL, SQL Server, SQLite
+* Databases: MySQL, SQL Server, Oracle SQL, SQLite
 * Packages: NumPy, SciPy, pandas, scikit-learn, NLTK, OpenCV
-* Visualization Tools: matplotlib, ggplot, RShiny, seaborn, Tableau, D3.js, PowerBI
-* Frameworks: Tensorflow, Keras, Hadoop, Spark, Jekyll, Bootstrap
+* Visualization Tools: matplotlib, ggplot, RShiny, seaborn, Tableau, D3.js, PowerBI, QlikView
+* Frameworks: Tensorflow, Keras, Hadoop (Cloudera), Spark, Jekyll, Bootstrap
 * Web Development: HTML, CSS, JavaScript, JavaFX
-* Cloud services: Amazon Web Services, Google Cloud Platform
+* Cloud services: Google Cloud Platform, Microsoft Azure, Amazon Web Services
 * Softwares: Android Studio, Arduino, OrCAD Capture, PSpice, PCB Editor, Simulink, Xilinx, Tanner Tools
-* Version Control: Git
+* Version Control: Git (GitHub, Gitlab, Bitbucket)
 * Software Containerization: Docker
 * Operating Systems: Windows, Ubuntu, macOS, Fedora, RHEL
 
